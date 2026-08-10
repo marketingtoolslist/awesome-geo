@@ -78,6 +78,7 @@ Commercial tools that monitor how often and how favorably a brand is mentioned o
 
 ### Open-Source Tools
 
+- [**AI Citation Evidence Validator**](https://corankai.github.io/ai-citation-evidence-validator/) — Browser-local, MIT-licensed checker for GEO/AEO observation records that validates evidence completeness, citation consistency, timestamps, and duplicate run keys; [source code](https://github.com/corankai/ai-citation-evidence-validator), built by [Corank](https://corank.ai/).
 - [**Elmo**](https://github.com/elmohq/elmo) — Self-hosted, MIT-licensed AI-visibility tracker. Runs prompts against ChatGPT, Claude, Perplexity, Gemini, Copilot, and Google AI Overviews via your own API keys, so prompt history and data stay on your infrastructure. Widely regarded as the most actively maintained open-source option in this space.
 - [**geo-aeo-tracker**](https://github.com/danishashko/geo-aeo-tracker) — Local-first, Next.js-based AI-visibility dashboard tracking six AI models via scraping APIs; includes a built-in site-audit crawler for AI-readiness checks.
 - [**GEO topic pages on GitHub**](https://github.com/topics/generative-engine-optimization) — Browse the `generative-engine-optimization` and `ai-visibility` topic pages directly for the newest CLI tools, MCP-based skills, and citation-testing frameworks — this corner of the ecosystem changes fast enough that a static list goes stale within months.

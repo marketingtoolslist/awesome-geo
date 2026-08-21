@@ -67,6 +67,7 @@ Functionally, the work is the same regardless of label: structure content around
 
 Commercial tools that monitor how often and how favorably a brand is mentioned or cited across generative engines. Evaluate on AI-engine coverage, whether insights connect to a content workflow, and pricing transparency — this category is broad and consolidating fast.
 
+- [askchat.studio](https://askchat.studio/) — Niche AI-visibility service for local wellness businesses; its free check reports the actual sources behind an AI answer for a given city.
 - [Profound](https://www.tryprofound.com/) — Enterprise-focused GEO analytics with strong publisher-partnership research.
 - [Scrunch](https://scrunch.com/) — Combines monitoring, auditing, and content-delivery features in one platform.
 - [Otterly.AI](https://otterly.ai/) — Straightforward AI-visibility tracking aimed at small and mid-size teams.

@@ -71,6 +71,7 @@ Commercial tools that monitor how often and how favorably a brand is mentioned o
 - [Scrunch](https://scrunch.com/) — Combines monitoring, auditing, and content-delivery features in one platform.
 - [Otterly.AI](https://otterly.ai/) — Straightforward AI-visibility tracking aimed at small and mid-size teams.
 - [Peec AI](https://peec.ai/) — European-market generative-search monitoring platform.
+- [LLM Pulse](https://llmpulse.ai/) — AI search analytics platform that tracks brand mentions, citations, sentiment, and competitor share of voice across ChatGPT, Perplexity, Gemini, Google AI Overviews, and Google AI Mode.
 - [AirOps](https://www.airops.com/) — Connects visibility data directly to content briefing and production.
 - [AthenaHQ](https://www.athenahq.ai/) — Known for large-scale AI-response analysis and free visibility reports.
 - [Conductor](https://www.conductor.com/) — Unified SEO + GEO platform for teams that don't want a separate tool.

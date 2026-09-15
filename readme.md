@@ -80,6 +80,7 @@ Commercial tools that monitor how often and how favorably a brand is mentioned o
 
 - [**Elmo**](https://github.com/elmohq/elmo) — Self-hosted, MIT-licensed AI-visibility tracker. Runs prompts against ChatGPT, Claude, Perplexity, Gemini, Copilot, and Google AI Overviews via your own API keys, so prompt history and data stay on your infrastructure. Widely regarded as the most actively maintained open-source option in this space.
 - [**geo-aeo-tracker**](https://github.com/danishashko/geo-aeo-tracker) — Local-first, Next.js-based AI-visibility dashboard tracking six AI models via scraping APIs; includes a built-in site-audit crawler for AI-readiness checks.
+- [**openllmrank**](https://github.com/foodaka/openllmrank) — MIT-licensed CLI that runs your own prompt list against the grounded OpenAI, Anthropic, Gemini, Perplexity, and xAI APIs using your own keys, then reports the prompts where a named competitor is cited and your brand is not.
 - [**GEO topic pages on GitHub**](https://github.com/topics/generative-engine-optimization) — Browse the `generative-engine-optimization` and `ai-visibility` topic pages directly for the newest CLI tools, MCP-based skills, and citation-testing frameworks — this corner of the ecosystem changes fast enough that a static list goes stale within months.
 
 ## Technical Implementation

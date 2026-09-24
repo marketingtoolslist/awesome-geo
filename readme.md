@@ -75,6 +75,7 @@ Commercial tools that monitor how often and how favorably a brand is mentioned o
 - [AthenaHQ](https://www.athenahq.ai/) — Known for large-scale AI-response analysis and free visibility reports.
 - [Conductor](https://www.conductor.com/) — Unified SEO + GEO platform for teams that don't want a separate tool.
 - [Nightwatch](https://nightwatch.io/) / [SE Ranking](https://seranking.com/) — Established SEO tools that added generative-engine citation tracking modules.
+- [Screpy](https://screpy.com/feature/ai-visibility/) — Tracks selected AI-search prompts, brand mentions, citations, source URLs, sentiment, and competitor visibility.
 
 ### Open-Source Tools
 

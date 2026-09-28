@@ -74,6 +74,7 @@ Commercial tools that monitor how often and how favorably a brand is mentioned o
 - [AirOps](https://www.airops.com/) — Connects visibility data directly to content briefing and production.
 - [AthenaHQ](https://www.athenahq.ai/) — Known for large-scale AI-response analysis and free visibility reports.
 - [Conductor](https://www.conductor.com/) — Unified SEO + GEO platform for teams that don't want a separate tool.
+- [**Peak Answer**](https://peakanswer.com/) — Tracks brand visibility across AI answers and ties each gap to the work that closes it, spanning measurement, content, link placements, social and ongoing technical optimisation.
 - [Nightwatch](https://nightwatch.io/) / [SE Ranking](https://seranking.com/) — Established SEO tools that added generative-engine citation tracking modules.
 
 ### Open-Source Tools

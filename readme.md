@@ -75,6 +75,7 @@ Commercial tools that monitor how often and how favorably a brand is mentioned o
 - [AthenaHQ](https://www.athenahq.ai/) — Known for large-scale AI-response analysis and free visibility reports.
 - [Conductor](https://www.conductor.com/) — Unified SEO + GEO platform for teams that don't want a separate tool.
 - [Nightwatch](https://nightwatch.io/) / [SE Ranking](https://seranking.com/) — Established SEO tools that added generative-engine citation tracking modules.
+- [MentionsAPI](https://mentionsapi.com) — Developer API returning brand mentions, sentiment, and citations across ChatGPT, Claude, Gemini, Perplexity, Google AI Overviews, AI Mode, and Bing Copilot from a single call, for teams building their own AI-visibility monitoring.
 
 ### Open-Source Tools
 

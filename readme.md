@@ -69,6 +69,7 @@ Commercial tools that monitor how often and how favorably a brand is mentioned o
 
 - [Profound](https://www.tryprofound.com/) — Enterprise-focused GEO analytics with strong publisher-partnership research.
 - [Scrunch](https://scrunch.com/) — Combines monitoring, auditing, and content-delivery features in one platform.
+- [Serpel](https://serpel.app/) — SEO infrastructure combining rankings, site audits, keyword research, and AI visibility workflows.
 - [Otterly.AI](https://otterly.ai/) — Straightforward AI-visibility tracking aimed at small and mid-size teams.
 - [Peec AI](https://peec.ai/) — European-market generative-search monitoring platform.
 - [AirOps](https://www.airops.com/) — Connects visibility data directly to content briefing and production.

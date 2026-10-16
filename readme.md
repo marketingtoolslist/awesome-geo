@@ -42,6 +42,7 @@ Functionally, the work is the same regardless of label: structure content around
 - **AutoGEO** *(ICLR 2026)* — A framework that automatically learns what a given generative engine prefers, rather than relying on a fixed set of heuristics, and rewrites content accordingly.
 - [**E-GEO: A Testbed for GEO in E-Commerce**](https://arxiv.org/abs/2511.20867) — The first e-commerce-specific GEO benchmark, evaluating rewriting heuristics across 7,000+ product queries.
 - **Multi-Source Corroboration in GEO** *(Rankfor.AI, 2026)* — Empirical study on cross-platform citation optimization, finding large citation-rate gains when consistent information appears across 5–10 independent, high-authority sources.
+- [**AI Crawler Access on the Top 5,000 Websites**](https://seoaeogeo.app/blogs/ai-crawler-access-study-2026) *(SEO·AEO·GEO, October 2026)* — Measures robots.txt rules and live access for OAI-SearchBot, PerplexityBot and Claude-SearchBot across the Tranco top 5,000, using control requests to show how often a firewall, not robots.txt, decides access; open CSV under CC BY 4.0.
 - [**Awesome-GEO** by DavidHuji](https://github.com/DavidHuji/Awesome-GEO) — An actively maintained, deeper research-paper collection covering adversarial GEO topics (ranking manipulation, prompt injection risks) alongside the core visibility literature — a good companion for anyone going past the practitioner layer.
 
 ## Official Platform Documentation

@@ -82,6 +82,8 @@ Commercial tools that monitor how often and how favorably a brand is mentioned o
 - [**geo-aeo-tracker**](https://github.com/danishashko/geo-aeo-tracker) — Local-first, Next.js-based AI-visibility dashboard tracking six AI models via scraping APIs; includes a built-in site-audit crawler for AI-readiness checks.
 - [**GEO topic pages on GitHub**](https://github.com/topics/generative-engine-optimization) — Browse the `generative-engine-optimization` and `ai-visibility` topic pages directly for the newest CLI tools, MCP-based skills, and citation-testing frameworks — this corner of the ecosystem changes fast enough that a static list goes stale within months.
 
+- [**Traclux**](https://github.com/ZaneLau/traclux-probe) — Apache-2.0, self-hosted GEO workbench that generates CSSM-HI probes, runs them against a configured model, and stores answers for brand analysis.
+
 ## Technical Implementation
 
 Practical, engine-agnostic groundwork that most GEO research and guides converge on:

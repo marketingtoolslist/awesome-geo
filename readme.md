@@ -76,6 +76,10 @@ Commercial tools that monitor how often and how favorably a brand is mentioned o
 - [Conductor](https://www.conductor.com/) — Unified SEO + GEO platform for teams that don't want a separate tool.
 - [Nightwatch](https://nightwatch.io/) / [SE Ranking](https://seranking.com/) — Established SEO tools that added generative-engine citation tracking modules.
 
+### Readiness Checkers
+
+- [**SagBot**](https://sagbot.app) — Free checker that scores any domain on agent readiness and answer readiness (SEO, GEO, AEO) and returns a ranked copy-paste fix for each failing check; it audits the site itself rather than tracking brand mentions.
+
 ### Open-Source Tools
 
 - [**Elmo**](https://github.com/elmohq/elmo) — Self-hosted, MIT-licensed AI-visibility tracker. Runs prompts against ChatGPT, Claude, Perplexity, Gemini, Copilot, and Google AI Overviews via your own API keys, so prompt history and data stay on your infrastructure. Widely regarded as the most actively maintained open-source option in this space.

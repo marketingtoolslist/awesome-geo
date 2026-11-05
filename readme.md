@@ -75,6 +75,7 @@ Commercial tools that monitor how often and how favorably a brand is mentioned o
 - [AthenaHQ](https://www.athenahq.ai/) — Known for large-scale AI-response analysis and free visibility reports.
 - [Conductor](https://www.conductor.com/) — Unified SEO + GEO platform for teams that don't want a separate tool.
 - [Nightwatch](https://nightwatch.io/) / [SE Ranking](https://seranking.com/) — Established SEO tools that added generative-engine citation tracking modules.
+- [**AgentSEO**](https://www.agentseo.dev/docs/api-reference) — REST API for SEO and answer engine optimization (AEO) workflows, with Google AI Overview evidence, AI mention tracking, SERP analysis, and content gap checks.
 
 ### Open-Source Tools
 

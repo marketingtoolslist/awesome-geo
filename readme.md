@@ -75,6 +75,7 @@ Commercial tools that monitor how often and how favorably a brand is mentioned o
 - [AthenaHQ](https://www.athenahq.ai/) — Known for large-scale AI-response analysis and free visibility reports.
 - [Conductor](https://www.conductor.com/) — Unified SEO + GEO platform for teams that don't want a separate tool.
 - [Nightwatch](https://nightwatch.io/) / [SE Ranking](https://seranking.com/) — Established SEO tools that added generative-engine citation tracking modules.
+- [**CrestGeo**](https://crestgeo.com) — Checks how Chinese AI assistants (Doubao, DeepSeek, Kimi and more) mention and describe a site or brand, with a free score and top issues to fix.
 
 ### Open-Source Tools
 

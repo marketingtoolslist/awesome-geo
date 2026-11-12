@@ -59,6 +59,7 @@ Functionally, the work is the same regardless of label: structure content around
 - [Search Engine Journal — Beginner's guide to GEO](https://www.searchenginejournal.com/) — An accessible starting point for people new to the field.
 - [CXL — Answer/Generative Engine Optimization guide](https://cxl.com/blog/answer-engine-optimization-aeo-the-comprehensive-guide/) — Covers fundamentals plus emerging territory like agentic and voice search.
 - [HubSpot — Answer/generative engine optimization trends](https://blog.hubspot.com/marketing/answer-engine-optimization-trends) — Focused on unifying GEO with existing SEO tooling and workflows.
+- [Show Me Geo — Small business AI visibility guides](https://github.com/showmegeo/small-business-ai-visibility-guides) — Free per-industry GEO playbooks for local businesses (salons, gyms, cafes, clinics, schools), each in English, Polish, Ukrainian and Russian.
 - **Platform-specific breakdowns** — Multiple 2026 analyses document real differences in how each engine sources answers: Perplexity performs live retrieval on every query and rewards fresh, dated content (its heaviest citation source is community content, especially Reddit); ChatGPT leans on Wikipedia and established brand authority, with less consistent citation formatting; Google AI Overviews correlates strongly with existing top-10 organic rankings.
 
 ## Tools & Platforms

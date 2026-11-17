@@ -61,6 +61,8 @@ Functionally, the work is the same regardless of label: structure content around
 - [HubSpot — Answer/generative engine optimization trends](https://blog.hubspot.com/marketing/answer-engine-optimization-trends) — Focused on unifying GEO with existing SEO tooling and workflows.
 - **Platform-specific breakdowns** — Multiple 2026 analyses document real differences in how each engine sources answers: Perplexity performs live retrieval on every query and rewards fresh, dated content (its heaviest citation source is community content, especially Reddit); ChatGPT leans on Wikipedia and established brand authority, with less consistent citation formatting; Google AI Overviews correlates strongly with existing top-10 organic rankings.
 
+- [**GEO Lab — AI Visibility Measurement Guide**](https://helen-bird.github.io/geo-platform-observation/learning-hub/measurement/) — A free worked guide and Excel worksheet for measuring mentions, citations, and recommendations in repeated AI search answers.
+
 ## Tools & Platforms
 
 ### AI Visibility Platforms

@@ -73,6 +73,7 @@ Commercial tools that monitor how often and how favorably a brand is mentioned o
 - [Peec AI](https://peec.ai/) — European-market generative-search monitoring platform.
 - [AirOps](https://www.airops.com/) — Connects visibility data directly to content briefing and production.
 - [AthenaHQ](https://www.athenahq.ai/) — Known for large-scale AI-response analysis and free visibility reports.
+- [LLMMonitor](https://llmmonitor.io/) — Tracks brand mentions, position, sentiment and cited sources across ChatGPT, Claude, Gemini, Google AI Mode and Microsoft Copilot; free plan with 3 prompts, paid plans from €29/mo.
 - [Conductor](https://www.conductor.com/) — Unified SEO + GEO platform for teams that don't want a separate tool.
 - [Nightwatch](https://nightwatch.io/) / [SE Ranking](https://seranking.com/) — Established SEO tools that added generative-engine citation tracking modules.
 
